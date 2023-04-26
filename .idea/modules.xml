@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Person/Person.iml" filepath="$PROJECT_DIR$/Person/Person.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prog2-Aufgaben.iml" filepath="$PROJECT_DIR$/Prog2-Aufgaben.iml" />
       <module fileurl="file://$PROJECT_DIR$/StapelSchlangeArray/StapelSchlangeArray.iml" filepath="$PROJECT_DIR$/StapelSchlangeArray/StapelSchlangeArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StapelSchlangeArrayGenerics/StapelSchlangeArrayGenerics.iml" filepath="$PROJECT_DIR$/StapelSchlangeArrayGenerics/StapelSchlangeArrayGenerics.iml" />
     </modules>
   </component>
 </project>
