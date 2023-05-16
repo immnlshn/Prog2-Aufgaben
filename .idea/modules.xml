@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Person/Person.iml" filepath="$PROJECT_DIR$/Person/Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabenblatt 0/Aufgabenblatt 0.iml" filepath="$PROJECT_DIR$/Aufgabenblatt 0/Aufgabenblatt 0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabenblatt 1/Aufgabenblatt 1.iml" filepath="$PROJECT_DIR$/Aufgabenblatt 1/Aufgabenblatt 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabenblatt 2/Aufgabenblatt 2.iml" filepath="$PROJECT_DIR$/Aufgabenblatt 2/Aufgabenblatt 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabenblatt 3/Aufgabenblatt 3.iml" filepath="$PROJECT_DIR$/Aufgabenblatt 3/Aufgabenblatt 3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prog2-Aufgaben.iml" filepath="$PROJECT_DIR$/Prog2-Aufgaben.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StapelSchlangeArray/StapelSchlangeArray.iml" filepath="$PROJECT_DIR$/StapelSchlangeArray/StapelSchlangeArray.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StapelSchlangeArrayGenerics/StapelSchlangeArrayGenerics.iml" filepath="$PROJECT_DIR$/StapelSchlangeArrayGenerics/StapelSchlangeArrayGenerics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabenblatt 0/a0-uebung-2/a0-uebung-2.iml" filepath="$PROJECT_DIR$/Aufgabenblatt 0/a0-uebung-2/a0-uebung-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabenblatt 0/a0-uebung-3/a0-uebung-3.iml" filepath="$PROJECT_DIR$/Aufgabenblatt 0/a0-uebung-3/a0-uebung-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabenblatt 1/a1-uebung-2/a1-uebung-2.iml" filepath="$PROJECT_DIR$/Aufgabenblatt 1/a1-uebung-2/a1-uebung-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabenblatt 1/a1-uebung-3/a1-uebung-3.iml" filepath="$PROJECT_DIR$/Aufgabenblatt 1/a1-uebung-3/a1-uebung-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabenblatt 1/a1-uebung-4/a1-uebung-4.iml" filepath="$PROJECT_DIR$/Aufgabenblatt 1/a1-uebung-4/a1-uebung-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabenblatt 2/a2-uebung-3/a2-uebung-3.iml" filepath="$PROJECT_DIR$/Aufgabenblatt 2/a2-uebung-3/a2-uebung-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabenblatt 2/a2-uebung-4/a2-uebung-4.iml" filepath="$PROJECT_DIR$/Aufgabenblatt 2/a2-uebung-4/a2-uebung-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabenblatt 2/a2-uebung-6/a2-uebung-6.iml" filepath="$PROJECT_DIR$/Aufgabenblatt 2/a2-uebung-6/a2-uebung-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabenblatt 2/a2-uebung-7/a2-uebung-7.iml" filepath="$PROJECT_DIR$/Aufgabenblatt 2/a2-uebung-7/a2-uebung-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabenblatt 2/a2-uebung-8/a2-uebung-8.iml" filepath="$PROJECT_DIR$/Aufgabenblatt 2/a2-uebung-8/a2-uebung-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabenblatt 3/a3-uebung-1/a3-uebung-1.iml" filepath="$PROJECT_DIR$/Aufgabenblatt 3/a3-uebung-1/a3-uebung-1.iml" />
     </modules>
   </component>
 </project>
